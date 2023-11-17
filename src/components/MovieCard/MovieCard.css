@@ -1,0 +1,23 @@
+.movies__item {
+	border-radius: 12px;
+	background: rgba(32, 40, 62, 0.8);
+	padding: 8px 8px 24px;
+	box-sizing: border-box;
+	transition: all linear 0.2s;
+}
+
+.movies__item:hover {
+	background: #20283e;
+	padding: 8px 8px 24px;
+	box-sizing: border-box;
+}
+
+.movies__item-title {
+	color: #ebeef5;
+	padding-left: 8px;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 600;
+	letter-spacing: 0.32px;
+	margin-bottom: 16px;
+}

@@ -1,0 +1,15 @@
+.movies__item-poster--rating {
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	gap: 4px;
+	align-items: center;
+	border-radius: 8px;
+	background: var(--black-65, rgba(0, 0, 0, 0.65));
+	backdrop-filter: blur(4px);
+	padding: 8px 12px;
+	color: #ffad49;
+	line-height: 24px;
+	top: 8px;
+	left: 8px;
+}
