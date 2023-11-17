@@ -1,0 +1,28 @@
+.movies__item-favorites {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+	border: none;
+	background: transparent;
+
+	font-weight: 600;
+	line-height: 24px;
+	letter-spacing: 0.32px;
+	padding-left: 8px;
+}
+
+.add-favorite {
+	color: #7b6ef6;
+	stroke: #7b6ef6;
+}
+
+.added-favorite,
+.add-favorite:hover {
+	color: #37d8a7;
+	stroke: #37d8a7;
+}
+
+.added-favorite:hover {
+	color: #8e95a9;
+	stroke: #8e95a9;
+}

@@ -1,0 +1,15 @@
+.movies__item-poster {
+	display: flex;
+	margin-bottom: 24px;
+	position: relative;
+}
+
+.movies__item-poster--img {
+	border-radius: 8px;
+	max-width: 266px;
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	display: flex;
+	overflow: hidden;
+}

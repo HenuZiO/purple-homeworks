@@ -1,0 +1,10 @@
+.paragraph__text {
+	font-size: 16px;
+	padding-bottom: 24px;
+	line-height: 24px;
+}
+
+.paragraph__text--big {
+	font-size: 20px;
+	line-height: 32px;
+}
